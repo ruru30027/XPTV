@@ -12,6 +12,12 @@
             "api": "csp_bde4",
             "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/bdys.js"
         },
+         {
+            "name": "影视天堂",
+            "type": 3,
+            "api": "csp_ysttv",
+            "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/ruru30027/XPTV/refs/heads/main/js/ysttv.js"
+        },
         { 
             "name": "欧乐🪜", 
             "type": 3, 
