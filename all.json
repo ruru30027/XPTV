@@ -380,7 +380,7 @@
       "name": "影视天堂",
       "type": 3,
       "api": "csp_ysttv",
-      "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/ysttv.js"
+      "ext": "https://raw.githubusercontent.com/ruru30027/xptv-extensions/main/js/ysttv.js"
     },
     {
       "name": "天天影視",
