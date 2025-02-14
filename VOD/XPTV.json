@@ -12,7 +12,13 @@
             "api": "csp_bde4",
             "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/bdys.js"
         },
-         {
+        {
+            "name": "玩偶哥哥",
+            "type": 3,
+            "api": "csp_wogg",
+            "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/ruru30027/XPTV/refs/heads/main/js/wogg.js"
+        },
+        {
             "name": "影视天堂",
             "type": 3,
             "api": "csp_ysttv",
